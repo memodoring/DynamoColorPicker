@@ -21,7 +21,7 @@ https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/develo
   * Select 'Lambda' from the Services dropdown
   * Click on the 'Create a Lambda Function' button
     * Type 'color' into the recipe filter and choose 'Node.js 4.3' as the language
-    * Screenshot
+    * ![Name Stack Screen](https://s3.amazonaws.com/memodoring-images/DynamoColorPicker/color-expert-recipe.png)
   * Click on the 'alexa-skills-kit-color-expert' recipe
   * Make sure the 'Event source type' is set to 'Alexa Skills Kit' & click the 'next' button
   * Name your function
