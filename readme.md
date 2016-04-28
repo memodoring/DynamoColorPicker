@@ -25,7 +25,7 @@ https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/develo
   * Click on the 'alexa-skills-kit-color-expert' recipe
   * Make sure the 'Event source type' is set to 'Alexa Skills Kit' & click the 'next' button
   * Name your function
-  * In the 'Role' dropdown (near the bottom) select the 'Basic execution role'
+  * In the 'Role' dropdown (near the bottom) select the 'Basic with DynamoDB'
     * In the next window click the 'allow' button
   * Click the 'next' button
 4. Replace Lambda code with the code from DynamoDBColorPicker.js
